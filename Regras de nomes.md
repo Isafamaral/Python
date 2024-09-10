@@ -1,4 +1,4 @@
-#Variáveis: Regras de nomes**
+# **Variáveis: Regras de nomes**
 
 * Deve começar com uma letra (maiúscula ou minuscula) ou underscore(_).
 * Nunca pode começar com um número.
